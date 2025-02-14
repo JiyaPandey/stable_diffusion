@@ -13,7 +13,8 @@ This project explores AI-driven image generation using **Stable Diffusion** with
 ### 1️⃣ **The Floating Island of Bioluminescence**
 **Prompt:** "A floating island in the sky, covered in glowing bioluminescent trees, with waterfalls cascading into the clouds below. A futuristic city hovers nearby, connected by glowing bridges."
 **Negative Prompt:** No dark or dystopian themes, no grounded landscapes, no ruined buildings, no human activity.
-![Screenshot 2025-02-14 104456](https://github.com/user-attachments/assets/5e516bad-a093-407e-a9bf-91574c4521e9)
+![Screenshot 2025-02-14 122520](https://github.com/user-attachments/assets/d86cb894-56ee-44bf-82c4-19f4c9dd6a93)
+
 
 
 ### 2️⃣ **The Cybernetic Dragon**
